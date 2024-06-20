@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Pulsar Star Prediction
+
+Prediction of pulsar stars using KNN algorithm. Done as a course project for UBC DSCI 100 (Intro to Data Science) course.
